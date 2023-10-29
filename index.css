@@ -1,0 +1,26 @@
+*{
+    /* background-color: aqua; */
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#container{
+    margin-top: 40px;
+    background-color: rgb(52, 52, 71);
+    height: 200px;
+    width: 200px;
+}
+#h1{
+    color: black
+}
+h1,h2,h4{
+    padding: 10px;
+    color: white
+}
